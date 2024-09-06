@@ -3,10 +3,10 @@
 ![Embeddium Unofficial Translate](https://cdn.modrinth.com/data/cached_images/0f1213c99ad37ce9dc41b691d2bd0516f81e875b.png)
 
 # Description📖
-An unofficial resource pack for translating [Embeddium](https://modrinth.com/mod/embeddium)([Sodium](https://modrinth.com/mod/sodium)).
+An unofficial resource pack for translating [Embeddium](https://github.com/embeddedt/embeddium)([Sodium](https://github.com/CaffeineMC/sodium-fabric))
 
 # Required Mods🔴
-[Embeddium](https://modrinth.com/mod/embeddium), [Sodium](https://modrinth.com/mod/sodium)([Rubidium](https://modrinth.com/mod/rubidium))
+[Embeddium](https://github.com/embeddedt/embeddium), [Sodium](https://github.com/CaffeineMC/sodium-fabric)([Rubidium](https://github.com/Asek3/Rubidium))
 
 
 ## _**If you recognize the name...**_
