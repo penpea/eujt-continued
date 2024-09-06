@@ -8,6 +8,9 @@ An unofficial resource pack for translating [Embeddium](https://github.com/embed
 # Required Mods🔴
 [Embeddium](https://github.com/embeddedt/embeddium), [Sodium](https://github.com/CaffeineMC/sodium-fabric)([Rubidium](https://github.com/Asek3/Rubidium))
 
+# Update Frequency⌚
+Update according to mood.
+However, we almost never update when any one thing is incomplete.
 
 ## _**If you recognize the name...**_
 Some of you may recognize this resource pack....
