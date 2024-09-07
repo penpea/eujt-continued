@@ -19,4 +19,4 @@ Embeddium, Sodium, and Rubidium are not compatible with each other. If you are g
 Some of you may recognize this resource pack....
 Yes, this resource pack is a continuation of the EUJT (Embeddium Translation Resource Pack).
 
-My unupdated version is [here](https://modrinth.com/resourcepack/eujt)
+My unupdated version is [here](https://github.com/penguin06329/Embeddium-Unofficial-Japanese-Translate)
