@@ -12,6 +12,11 @@ An unofficial resource pack for translating [Embeddium](https://github.com/embed
 Update according to mood.
 However, we almost never update when any one thing is incomplete.
 
-## _**If you recognize the name...**_
+# Mod Compatibility👜
+Embeddium, Sodium, and Rubidium are not compatible with each other. If you are going to install one of them, please use one of them.
+
+## _If you recognize the name..._ 🐧
 Some of you may recognize this resource pack....
 Yes, this resource pack is a continuation of the EUJT (Embeddium Translation Resource Pack).
+
+My unupdated version is [here](https://modrinth.com/resourcepack/eujt)
