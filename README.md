@@ -16,8 +16,7 @@ However, we almost never update when any one thing is incomplete.
 Embeddium, Sodium, and Rubidium are not compatible with each other. If you are going to install one of them, please use one of them.
 
 # Download📁
-[Modrinth](https://modrinth.com/resourcepack/eujt-continued/versions)
-[GitHub Releases](https://github.com/penpea/eujt-continued/releases)
+[Modrinth](https://modrinth.com/resourcepack/eujt-continued/versions) | [GitHub Releases](https://github.com/penpea/eujt-continued/releases)
 
 ## _If you recognize the name..._ 🐧
 Some of you may recognize this resource pack....
