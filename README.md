@@ -16,7 +16,7 @@ However, we almost never update when any one thing is incomplete.
 Embeddium, Sodium, and Rubidium are not compatible with each other. If you are going to install one of them, please use one of them.
 
 # Download📁
-[CurseForge](https://www.curseforge.com/minecraft/texture-packs/eujt-continued/files/all?page=1&pageSize=20)[Modrinth](https://modrinth.com/resourcepack/eujt-continued/versions) | [GitHub Releases](https://github.com/penpea/eujt-continued/releases)
+[CurseForge](https://www.curseforge.com/minecraft/texture-packs/eujt-continued/files/all?page=1&pageSize=20) | [Modrinth](https://modrinth.com/resourcepack/eujt-continued/versions) | [GitHub Releases](https://github.com/penpea/eujt-continued/releases)
 
 ## _If you recognize the name..._ 🐧
 Some of you may recognize this resource pack....
