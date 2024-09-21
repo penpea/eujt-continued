@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": {
+            "translate": "embeddium.resource_pack.unofficial",
+            "fallback": "Unofficial §dEmbeddium§a(Sodium) §r translation."
+        },
+        "supported_formats": [15, 40]
+    }
+}
