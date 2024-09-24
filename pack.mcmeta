@@ -3,7 +3,7 @@
         "pack_format": 15,
         "description": {
             "translate": "embeddium.resource_pack.unofficial",
-            "fallback": "Unofficial §dEmbeddium§a(Sodium) §r translation."
+            "fallback": "Unofficial §dEmbeddium§a(Sodium) §rtranslation."
         },
         "supported_formats": [15, 40]
     }
