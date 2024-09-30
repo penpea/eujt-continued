@@ -24,3 +24,5 @@ Yes, this resource pack is a continuation of the EUJT (Embeddium Translation Res
 
 My unupdated version is [here](https://github.com/penguin06329/Embeddium-Unofficial-Japanese-Translate)
 
+## More Platforms
+[X(Twitter)](https://x.com/penguin06329b)
