@@ -26,3 +26,6 @@ My unupdated version is [here](https://github.com/penguin06329/Embeddium-Unoffic
 
 ## More Platforms
 [X(Twitter)](https://x.com/penguin06329b)
+
+**Modpack Notice**: 
+You are free to include this translation resource pack in your modpack! No permission required.
