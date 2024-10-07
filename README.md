@@ -29,3 +29,6 @@ My unupdated version is [here](https://github.com/penguin06329/Embeddium-Unoffic
 
 **Regarding Modpack**: 
 You are free to include this translation resource pack in your modpack! No permission required.
+
+Languages
+README_ja.md
