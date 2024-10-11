@@ -31,4 +31,4 @@ My unupdated version is [here](https://github.com/penguin06329/Embeddium-Unoffic
 You are free to include this translation resource pack in your modpack! No permission required.
 
 Languages
-README_ja.md
+[日本語(Japanese)](https://github.com/penpea/eujt-continued/blob/main/README_languages/README_ja) [한국어(Korean)](https://github.com/penpea/eujt-continued/blob/main/README_languages/README_ko.kr)
